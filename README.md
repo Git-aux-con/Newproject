@@ -1,4 +1,4 @@
 # Newproject
 This is my first repository.
 <br>
-Author - Singh(1)
+Author - Singh(Newproject)
